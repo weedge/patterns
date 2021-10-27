@@ -13,3 +13,13 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+*~
+*.swp
+*.swo
+go.sum
+
+*.pprof
+
+.DS_Store
+*.log.*
+
